@@ -3,6 +3,12 @@
 Local development URL: http://kide.local/
 Kide is a WordPress practice project developed to demonstrate practical knowledge of modern WordPress (Full Site Editing) and custom Gutenberg block development using React. The project combines an existing block-based theme (Fleks) with a custom-built React Hero Block to create a structured, responsive front page.
 
+## 🚀 Live (Local Development)
+
+This project runs locally using WordPress:
+
+http://kide.local/
+
 ## Screenshots
 
 ![Homepage](images/kide.local.png)
@@ -141,6 +147,7 @@ wp-content/
 Silvana Lindholm
 
 - GitHub: [@1967cooder](https://github.com/1967cooder)
+- GitHub:[Kide] (https://github.com/1967cooder/kide)
 
 - LinkedIn: https://www.linkedin.com/in/silvanalindholm
 - Email: silvanalindholm@hotmail.com
