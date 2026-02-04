@@ -11,7 +11,8 @@ http://kide.local/
 
 ## Screenshots
 
-![Homepage](images/kide.local.png)
+![Homepage](images/kide.desktop.png)
+
 – Hero section (showing the React Hero Block)
 
 - Site Editor – Front Page layout
